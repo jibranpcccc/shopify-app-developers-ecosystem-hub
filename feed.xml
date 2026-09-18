@@ -4,10 +4,17 @@
     <title>Shopify App Developers &amp; Ecosystem Hub</title>
     <link>https://shopify-app-developers-ecosystem-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 10:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:20:46 GMT</lastBuildDate>
     <atom:link href="https://shopify-app-developers-ecosystem-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/FBA Amazon Seller Mastermind (Reddit)</title>
+      <link>https://www.reddit.com/r/FBA/</link>
+      <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-reddit-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:20:46 GMT</pubDate>
+      <description>Newly verified community added to Shopify App Developers &amp; Ecosystem Hub: Discussions on inventory management, Buy Box algorithm strategies, FBA fee optimization, and brand protection.</description>
+    </item>
+<item>
       <title>Shopify App Developers &amp; Ecosystem Hub Initial Release</title>
       <link>https://shopify-app-developers-ecosystem-hub.netlify.app/</link>
       <pubDate>Wed, 16 Sep 2026 10:43:52 GMT</pubDate>
