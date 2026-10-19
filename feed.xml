@@ -4,10 +4,17 @@
     <title>Shopify App Developers &amp; Ecosystem Hub</title>
     <link>https://shopify-app-developers-ecosystem-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:07:21 GMT</lastBuildDate>
     <atom:link href="https://shopify-app-developers-ecosystem-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Indie Hackers Community (Forum)</title>
+      <link>https://www.indiehackers.com</link>
+      <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-forum-20261019-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:07:21 GMT</pubDate>
+      <description>Newly verified community added to Shopify App Developers &amp; Ecosystem Hub: Transparent revenue shares, founder interviews, and practical guides for bootstrapping profitable online businesses.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Product Hunt Community (Forum)</title>
       <link>https://www.producthunt.com</link>
       <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-forum-20261018-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-reddit-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:06:50 GMT</pubDate>
       <description>Newly verified community added to Shopify App Developers &amp; Ecosystem Hub: Troubleshooting account suspensions, Brand Registry, PPC advertising campaigns, listing optimization, and customer returns.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/FBA Amazon Seller Mastermind (Reddit)</title>
-      <link>https://www.reddit.com/r/FBA/</link>
-      <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-reddit-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:20:46 GMT</pubDate>
-      <description>Newly verified community added to Shopify App Developers &amp; Ecosystem Hub: Discussions on inventory management, Buy Box algorithm strategies, FBA fee optimization, and brand protection.</description>
     </item>
   </channel>
 </rss>
