@@ -4,10 +4,17 @@
     <title>Shopify App Developers &amp; Ecosystem Hub</title>
     <link>https://shopify-app-developers-ecosystem-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:00:15 GMT</lastBuildDate>
     <atom:link href="https://shopify-app-developers-ecosystem-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                <item>
+                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-forum-20261025-1-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:00:15 GMT</pubDate>
+      <description>Newly verified community added to Shopify App Developers &amp; Ecosystem Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-forum-20261025-1-2026-10-29</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-telegram-20261001-1-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 08:02:03 GMT</pubDate>
       <description>Newly verified community added to Shopify App Developers &amp; Ecosystem Hub: Day-parting scripts, negative keyword harvesting strategies, Sponsored Brand video benchmarks, and ACOS management.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Product Sourcing &amp; Inspection Telegram (Telegram)</title>
-      <link>https://t.me/productsourcing</link>
-      <guid isPermaLink="false">https://shopify-app-developers-ecosystem-hub.netlify.app/#shopify-app-developers-ecosystem-hub-telegram-20260930-1-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:22:33 GMT</pubDate>
-      <description>Newly verified community added to Shopify App Developers &amp; Ecosystem Hub: Direct factory contacts, Canton Fair highlights, pre-shipment inspection checklists, and freight consolidation advice.</description>
     </item>
   </channel>
 </rss>
